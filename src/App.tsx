@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-import Board from './components/Board';
+import Board from './components/board/Board';
 import BoardModel from './models/BoardModel';
 
 import './App.css';
